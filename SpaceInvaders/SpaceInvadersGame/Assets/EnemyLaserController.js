@@ -5,7 +5,7 @@ function Start () {
 }
 
 function Update () {
-	transform.Translate(Vector3.down * 15 * Time.deltaTime);
+	transform.Translate(Vector3.down * 10 * Time.deltaTime);
 }
 
 function OnBecameInvisible()
