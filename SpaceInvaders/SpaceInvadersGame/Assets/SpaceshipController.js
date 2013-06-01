@@ -3,7 +3,7 @@
 var laserSlot:Rigidbody;
 static var score = 0;
 //health set to 100
-static var health:int=100;
+static var health:int=50;
 static var highScore:int = 0;
 static var gameOver = false;
 static var noshotsfired = 0;
